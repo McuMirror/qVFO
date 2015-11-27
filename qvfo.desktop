@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=qVFO
+GenericName=qVFO
+Comment=Software for controlling frequency generators
+Exec=qvfo
+Terminal=false
+Type=Application
+Icon=qfo
+Categories=Electronics;Engineering;Science;
+
